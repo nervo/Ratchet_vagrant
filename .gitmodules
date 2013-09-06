@@ -1,0 +1,12 @@
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "modules/keyboard"]
+	path = modules/keyboard
+	url = https://github.com/nervo/puppet_keyboard.git
+[submodule "modules/dotdeb"]
+	path = modules/dotdeb
+	url = https://github.com/nervo/puppet-module-dotdeb.git
+[submodule "modules/timezone"]
+	path = modules/timezone
+	url = https://github.com/attachmentgenie/puppet-module-timezone.git
