@@ -1,4 +1,4 @@
-Ratchet_vagrant
-===============
+Ratchet - Vagrant
+=================
 
-Ratchet vagrant
+Ratchet vagrant template
